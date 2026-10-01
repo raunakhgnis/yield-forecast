@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.csv
+*.parquet
+*.pkl
+*.xlsx
+data/
+snowflake_loader.py
